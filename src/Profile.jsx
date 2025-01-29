@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './Components/Student/Home'
+import Home from './Components/Home'
 
 
 function Profile({ profileDetails, login, logout }) {

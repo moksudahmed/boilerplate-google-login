@@ -5,7 +5,7 @@ import { googleLogout, useGoogleLogin } from '@react-oauth/google';
 import axios from 'axios';
 import Profile from './Profile';
 import "./App.css";
-import Home from './Components/Student/Home'
+import Home from './Components/Home'
 function App() {
     const [user, setUser] = useState([]);
     const [profile, setProfile] = useState([]);
