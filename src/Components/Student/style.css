@@ -1,0 +1,43 @@
+.headingStyle{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size : 50px;
+}
+.h1{
+    background-color: rgb(36, 32, 32);
+    color: white;
+    align-items: center;
+}
+.todoForm{
+    background-color: rgb(51, 46, 44);
+    border-radius: 5px;
+    margin: 10px;
+    width: 390px;
+}
+.card{
+    background-color:rgb(95, 73, 73);
+    border-radius: 5px;
+    margin: 10px;
+    width: 390px;
+}
+.cardTitle{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.cardDesc{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+.cardFooter{
+    text-align: center;
+    font-weight: bold;
+}
+.wrapper {
+    padding: 5px 20px;
+  }  
+  .wrapper fieldset {
+    margin: 20px 0;
+  }
+  
